@@ -1,0 +1,15 @@
+.one {
+  font-style:oblique;
+  font-weight: bold;
+  color: pink;
+}
+
+.two {
+  color: orange;
+  height: 25px;
+}
+
+.three  {
+  font-style: italic;
+  color:  aqua;
+}
